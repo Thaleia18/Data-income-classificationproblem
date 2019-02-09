@@ -46,19 +46,6 @@ capital-loss: continuous
 hours-per-week: continuous
 native-country: 
 
-################# Results ######################################################################
-Accuracy 
-The best was the classification tree.
+################# Results 
 
-Precision 
-The best was the classification tree.
-
-Recall 
-The best was the Kneighbors.
-
-F1 
-The best was the Kneighbors
-
-Area under precision recall
-The best was the classification tree.
-
+![Results](screenshot.png)
