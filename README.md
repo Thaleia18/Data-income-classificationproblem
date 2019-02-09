@@ -47,6 +47,7 @@ hours-per-week: continuous
 native-country: 
 
 ################# Results 
+
 Decision Tree Classifier
 ![Decision Tree Classifier](decisiontree.png)
 
@@ -56,7 +57,7 @@ Random Forest Classifier
 Logistic classifier
 ![Logistic classifier](logistic.png)
 
-SVM classifie
+SVM classifier
 ![SVM classifier](svm.png)
 
 K Neighbors Classifier
