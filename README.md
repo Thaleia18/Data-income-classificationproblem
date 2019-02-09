@@ -7,37 +7,46 @@ go to binaryclassification.pdf
 The prediction task is to determine whether a person makes over $50K a year.
 
 I  used five different classification algorithms:
+
 Decision Tree Classifier
+
 Random Forest Classifier
+
 Logistic classifier
+
 SVM classifier
+
 K Neighbors Classifier
 
 I evaluated my predictions using different metrics:
+
 Accuracy 
+
 Precision 
+
 Recall 
+
 F1 
+
 Area under precision recall 
 
 ###################### The data ###################################################################
 This data was extracted from the 1994 Census bureau database .
 
-Attributes:
->50K, <=50K
-age: continuous
-work class: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, …
-education: Bachelors, Some-college, Masters, Doctorate, 5th-6th, Preschool…
-education-num: continuous
-marital-status: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse
-occupation: Tech-support, Craft-repair, Machine-op-inspct, …
-relationship: Wife, Own-child, Husband, Not-in-family, Other-relative, ..
-race: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black
-sex: Female, Male
+Attributes: >50K, <=50K
+age: 
+work class: 
+education: 
+education-num: 
+marital-status: 
+occupation: 
+relationship
+race: 
+sex: 
 capital-gain: continuous
 capital-loss: continuous
 hours-per-week: continuous
-native-country: United-States, Cambodia, England, ..
+native-country: 
 
 ################# Results ######################################################################
 Accuracy Fraction of predictions our model got right 
