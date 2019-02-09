@@ -48,4 +48,12 @@ native-country:
 
 ################# Results 
 
-![Results](screenshot.png)
+![Decision Tree Classifier](decisiontree.png)
+
+![Random Forest Classifier](randomforest.png)
+
+![Logistic classifier](logistic.png)
+
+![SVM classifier](svm.png)
+
+![K Neighbors Classifier](kneigbors.png)
