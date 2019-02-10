@@ -46,7 +46,7 @@ capital-loss: continuous
 hours-per-week: continuous
 native-country: 
 
-################# Results 
+### Results 
 
 Decision Tree Classifier
 ![Decision Tree Classifier](decisiontree.png)
