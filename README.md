@@ -17,34 +17,38 @@ SVM classifier
 
 K Neighbors Classifier
 
-### I evaluated my predictions using different metrics:
-
-Accuracy 
-
-Precision 
-
-Recall 
-
-F1 
-
-Area under precision recall 
-
 ### The data  was extracted from the 1994 Census bureau database .
 
 Attributes: >50K, <=50K
+
 age: 
+
 work class: 
+
 education: 
+
 education-num: 
+
 marital-status: 
+
 occupation: 
+
 relationship
+
 race: 
+
 sex: 
+
 capital-gain: continuous
+
 capital-loss: continuous
+
 hours-per-week: continuous
+
 native-country: 
+
+Pearson Correlation of the selected features
+![Pearson Correlation Features](corre.png)
 
 ### Results 
 
